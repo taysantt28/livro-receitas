@@ -1,7 +1,9 @@
 
-# Livro de Receitas :notebook_with_decorative_cover:
+# Livro de Receitas 📔
 
-## Olá, bem vindo ao meu livro de receitas :woman_cook:
+## Olá, bem vindo ao meu livro de receitas 👩‍🍳
 
-* Strogonoff de Frango :chicken:
+* Strogonoff de Frango 🐔
+* Strogonoff de Carne 🐮
+* Bolo de Morango 🍰
 * Bolo de Banana :banana:
