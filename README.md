@@ -5,4 +5,5 @@
 
 * Strogonoff de Frango 🐔
 * Strogonoff de Carne 🐮
+* Bolo de Morango 🍰
 
